@@ -1,14 +1,14 @@
 [
   {
-    "path":"RecentlyAdded",
+    "path":"details/RecentlyAdded",
     "title":"Recently Added"
   },
   {
-    "path":"ListPSP",
+    "path":"details/ListPSP",
     "title":"List PSP Games"
   },
   {
-    "path":"ListPS2",
+    "path":"details/ListPS2",
     "title":"List PS2 Games"
   }
 ]
