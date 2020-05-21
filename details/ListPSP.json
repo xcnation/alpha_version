@@ -27,9 +27,36 @@
     "size_game":"1.2GB
   },
   {
-  name":"Ace Combat - Joint Assault (USA) ISO",
+  "name":"Ace Combat - Joint Assault (USA) ISO",
     "thumbnail":"https://romsmania.cc/statics/assets/covers/playstation-portable/ace-combat-joint-assault-usa-playstation-portable_1482387162.jpg",
     "country":"USA",
+    "url_download":"",
+    "description":"",
+    "type_game":"PSP",
+    "size_game":"1.2GB
+},
+  {
+  "name":"Ace Combat X - Skies of Deception (Europe) ISO",
+    "thumbnail":"https://romsmania.cc/statics/assets/covers/playstation-portable/ace-combat-x-skies-of-deception-europe-en-ja-fr-de-es-it-ko-playstation-portable_1482387307.jpg",
+    "country":"Europe",
+    "url_download":"",
+    "description":"",
+    "type_game":"PSP",
+    "size_game":"1.2GB
+    },
+  {
+  "name":"Ace Combat X - Skies of Deception (Japan) ISO",
+    "thumbnail":"https://romsmania.cc/statics/assets/covers/playstation-portable/ace-combat-x-skies-of-deception-europe-en-ja-fr-de-es-it-ko-playstation-portable_1482387307.jpg",
+    "country":"Japan",
+    "url_download":"",
+    "description":"",
+    "type_game":"PSP",
+    "size_game":"1.2GB
+      },
+  {
+  "name":"Ace Combat X - Skies of Deception (Japan) ISO",
+    "thumbnail":"https://romsmania.cc/statics/assets/covers/playstation-portable/ace-combat-x-skies-of-deception-europe-en-ja-fr-de-es-it-ko-playstation-portable_1482387307.jpg",
+    "country":"Japan",
     "url_download":"",
     "description":"",
     "type_game":"PSP",
